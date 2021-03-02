@@ -13,3 +13,4 @@ jobs:
           release-type: node
           package-name: release-please-action
           path: app/scripts/modules/core
+          monorepo-tags: true
